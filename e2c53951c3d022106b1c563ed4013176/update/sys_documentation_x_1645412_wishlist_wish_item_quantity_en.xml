@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="quantity" label="Quantity" language="en" table="x_1645412_wishlist_wish_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>quantity</element>
+            <help/>
+            <hint/>
+            <label>Quantity</label>
+            <language>en</language>
+            <name>x_1645412_wishlist_wish_item</name>
+            <plural>Quantities</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-14 14:16:49</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Quantity</sys_name>
+            <sys_package display_value="Wishlist" source="x_1645412_wishlist">e2c53951c3d022106b1c563ed4013176</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wishlist">e2c53951c3d022106b1c563ed4013176</sys_scope>
+            <sys_update_name>sys_documentation_x_1645412_wishlist_wish_item_quantity_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-14 14:16:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
